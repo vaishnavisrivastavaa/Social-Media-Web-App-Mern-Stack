@@ -36,11 +36,11 @@ This project is a full-stack social media web application 🌐 that has been dev
 - Update/Edit Profile Page User Data.
 
 
-### **SignUp/Register Page**  :
+### **SignUp/Register Page**  
 
 ![SignUp](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/signup.png)
 
-### **Login Page**  :
+### **Login Page**  
 
 ![Login](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/login.png)
 
@@ -51,7 +51,7 @@ This project is a full-stack social media web application 🌐 that has been dev
 
 ![Home2](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/homepage2.png)
 
-### **User Profile Page**  :
+### **User Profile Page**  
 
 ![profilePage](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/userprofilepage.png)
 
