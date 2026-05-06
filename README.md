@@ -38,24 +38,23 @@ This project is a full-stack social media web application 🌐 that has been dev
 
 ### **SignUp/Register Page**  
 
-![SignUp](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/signup.png)
+![SignUp](./assests/signup.png)
 
 ### **Login Page**  
 
-![Login](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/login.png)
-
+![Login](./assests/login.png)
 
 ### **Home Page :** 
  
-![Home1](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/homepage1.png)
+![Home1](./assests/homepage1.png)
 
-![Home2](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/homepage2.png)
+![Home2](./assests/homepage2.png)
 
 ### **User Profile Page**  
 
-![profilePage](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/userprofilepage.png)
+![profilePage](./assests/userprofilepage.png)
 
-![upateInfo](https://github.com/vaishnavisrivastavaa/Social-Media-Web-App-Mern-Stack-/blob/master/assests/userprofilepage2.png)
+![upateInfo](./assests/userprofilepage2.png)
 
 
 
